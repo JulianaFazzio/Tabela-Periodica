@@ -1,0 +1,48 @@
+table {
+    align-items: center;
+    margin: 0 auto;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    font-family: initial;
+    color: blue;
+}
+
+.elementos  td{
+    height: 50px;
+    width: 48px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 3px;
+    text-align: center;
+    font-family: initial;
+}
+.espaco_branco {
+    visibility: collapse;
+}
+
+.nao-metais{
+    background-color: lightgreen;
+}
+.metais-alcalinos{
+    background-color: orange;
+}
+.metais-alcalinos-terrosos{
+    background-color: yellow;
+}
+.metais-de-transicao{
+    background-color: lightpink;
+}
+.outros-metais{
+    background-color: lightblue;
+}
+.semimetais{
+    background-color: #20B2AA;
+}
+.halogenios{
+    background-color: aqua;
+}
+.gases-nobres{
+    background-color: #00BFFF;
+}
